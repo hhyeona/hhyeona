@@ -3,10 +3,13 @@
 #
  🌱 I’m currently learning ...
  <br>
+ 
  <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=E34F26"/>
  <img src="https://img.shields.io/badge/CSS3-sky?style=flat&logo=CSS3&logoColor=1572B6"/>
  <img src="https://img.shields.io/badge/Vue-green?style=flat&logo=Vue.js&logoColor=4FC08D"/>
  <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=3776AB"/>
+ <img src="https://img.shields.io/badge/nodedotjs-grey?style=flat&logo=nodedotjs&logoColor=339933"/>
+ <img src="https://img.shields.io/badge/sqlite-black?style=flat&logo=sqlite&logoColor=003B57"/>
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhyeona&show_icons=true&theme=synthwave)
