@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#
+ 🌱 I’m currently learning ...
+ <img src="https://img.shields.io/badge/Vue-green?style=flat&logo=Vue&logoColor=4FC08D"/>
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhyeona&show_icons=true&theme=synthwave)
