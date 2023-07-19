@@ -11,6 +11,7 @@
  <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=F7DF1E"/>
  <img src="https://img.shields.io/badge/sqlite-black?style=flat&logo=sqlite&logoColor=003B57"/>
  <img src="https://img.shields.io/badge/react-white?style=flat&logo=react&logoColor=61DAFB"/>
+ <img src="https://img.shields.io/badge/flutter-purple?style=flat&logo=flutter&logoColor=02569B"/>
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhyeona&show_icons=true&theme=synthwave)
