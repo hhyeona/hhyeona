@@ -1,8 +1,12 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+hhyeona+GitHub!👋)](https://git.io/typing-svg)
+ 
+<div align="left">
 
 #
  🌱 I’m currently learning ...
  <hr>
+ <div>
  <h4>Tech Stack</h4>
  <div>
   <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white">  
@@ -35,7 +39,18 @@
   <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/gitlab-FC6D26?logo=gitlab&logoColor=white">
  </div>
- 
+</div>
+<hr>
+<h4>Contact</h4>
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:hhyeona0104@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://www.instagram.com/hyeonnnamond">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+</div><br>
+
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhyeona&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhyeona&layout=compact&theme=synthwave)
