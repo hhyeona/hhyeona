@@ -50,10 +50,15 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 </div><br>
+<hr>
+<div>
+ <a href="https://drive.google.com/file/d/1GuFmJ8FFP9t2YBTPwUIN63a1DiRwU54A/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/portfolio-1bbfa0?logo=notion&logoColor=white"></a> 
+</div>
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhyeona&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhyeona&layout=compact&theme=synthwave)
+
   
 <!--
 **hhyeona/hhyeona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
