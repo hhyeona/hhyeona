@@ -7,7 +7,7 @@
 #
 <hr>
 <div>
- <a href="[https://drive.google.com/file/d/1GuFmJ8FFP9t2YBTPwUIN63a1DiRwU54A/view?usp=sharing](https://www.notion.so/f190f23b07cf423782b3427123b28fe1)" target="_blank"><img src="https://img.shields.io/badge/portfolio-1bbfa0?logo=notion&logoColor=white"></a> 
+ <a href="https://www.notion.so/f190f23b07cf423782b3427123b28fe1" target="_blank"><img src="https://img.shields.io/badge/portfolio-1bbfa0?logo=notion&logoColor=white"></a> 
 </div>
  <hr>
 
