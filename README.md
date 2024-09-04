@@ -6,10 +6,10 @@
 
 #
 <hr>
-<div>
- <a href="https://www.notion.so/f190f23b07cf423782b3427123b28fe1" target="_blank"><img src="https://img.shields.io/badge/portfolio-1bbfa0?logo=notion&logoColor=white"></a> 
-</div>
- <hr>
+<!-- <div> -->
+<!--  <a href="https://www.notion.so/f190f23b07cf423782b3427123b28fe1" target="_blank"><img src="https://img.shields.io/badge/portfolio-1bbfa0?logo=notion&logoColor=white"></a>  -->
+<!-- </div> -->
+<!--  <hr> -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ababwjdgusdk)](https://solved.ac/ababwjdgusdk/)
 
